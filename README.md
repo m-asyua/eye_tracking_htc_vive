@@ -11,12 +11,12 @@ Please import (1)VIVE Opne XR Plugin (need Git command) (2) Recorder.
 Download ViveOpenXRInstaller.unitypackage
 
 
-<img src="image1" width="400">
+<img src="image1.png" width="400">
 
-<img src="image2" width="300">
+<img src="image2.png" width="300">
 
-<img src="image3" width="300">
+<img src="image3.png" width="300">
 
-<img src="image4" width="300">
+<img src="image4.png" width="300">
 
 
