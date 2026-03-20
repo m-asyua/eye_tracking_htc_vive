@@ -11,13 +11,14 @@ Please import (1)VIVE Open XR Plugin (need Git command) (2) Recorder.
 Download ViveOpenXRInstaller.unitypackage
 
 
+(Git commands run in the background)
 <img src="image1.png" width="400">
-(Git command runs)
 
-<img src="image2.png" width="300">
+<img src="image2.png" width="400">
 
-<img src="image3.png" width="300">
+<img src="image3.png" width="400">
 
-<img src="image4.png" width="300">
+Recorder
+<img src="image4.png" width="400">
 
 
