@@ -22,7 +22,7 @@ Please import (1)VIVE Open XR Plugin (need Git command) (2) Recorder.
 Download ViveOpenXRInstaller.unitypackage
 
 
-(Git commands run in the background)
+(Git commands will run in the background)
 
 <img src="image1.png" width="400">
 
