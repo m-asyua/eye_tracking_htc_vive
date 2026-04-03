@@ -1,7 +1,11 @@
 # eye_tracking_htc_vive
 eye tracking sample for htc vive pro eye, unity package
 
-<img src="mv_2026_03_20_09_35_27_328.gif" width="400">
+<img src="mv_2026_03_20_09_35_27_328.gif" width="300">
+
+<img src="mv_2026_04_03_16_33_36_142.gif" width="300">
+
+<img src="mv_2026_04_03_17_56_56_817.gif" width="300">
 
 
 ----
@@ -35,7 +39,7 @@ Recorder
 <img src="image4.png" width="400">
 ----
 
-Please check checkbox in project settings
+Please check checkboxes in project settings
 
 <img src="image5.png" width="400">
 
