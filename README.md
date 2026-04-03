@@ -33,5 +33,9 @@ Download ViveOpenXRInstaller.unitypackage
 Recorder
 
 <img src="image4.png" width="400">
+----
 
+Please check checkbox in project settings
+
+<img src="image5.png" width="400">
 
